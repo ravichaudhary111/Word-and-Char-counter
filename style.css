@@ -1,0 +1,28 @@
+body {
+    background-color: #D9D7F1;
+}
+
+h1 {
+    text-align: center;
+    background-color: #D77FA1;
+    color: rgb(2, 2, 2);
+    padding: 10px 20px;
+    margin: 0px;
+}
+
+textarea {
+    width: 99.2%;
+    border-color: #D77FA1;
+    background-color: #FFEFEF;
+    margin: 0px;
+}
+
+#result {
+    text-align: center;
+    background-color: #D77FA1;
+    font-size: 25px;
+    width: 97%;
+    color: rgb(2, 2, 2);
+    padding: 10px;
+    margin: -3px;
+}
